@@ -1,4 +1,4 @@
-DBC MySQL Connection with ID Generation
+JDBC MySQL Connection with ID Generation
 This project demonstrates how to connect to a MySQL database using JDBC in Java. It includes functionality to generate unique IDs based on the class name, ensuring that IDs start with the first two characters of the class name.
 
 Features
